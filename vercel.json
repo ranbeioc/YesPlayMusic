@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://mapi.xhalo.top/:match*"
+    }
+  ]
+}
